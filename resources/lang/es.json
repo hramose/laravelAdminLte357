@@ -1,0 +1,23 @@
+{
+  "Sign in":        "Iniciar Sesión",
+  "E-mail":         "Correo electrónico",
+  "E-Mail Address": "Correo electrónico",
+  "Username":       "Nombre de usuario",
+  "Password":       "Contraseña",
+  "Remember me":    "Recordarme",
+  "Forgot password?": "Olvidó su contraseña?",
+  "Sign_in_button":   "Ingresar",
+  "Logout":         "Salir",
+  "Sign out":       "Cerrar sesión",
+  "Reset Password": "Restablecer Contraseña",
+  "Send Password Reset Link": "Restablecer la contraseña",
+
+  "Reset Password Notification":  "Notificación de restablecimiento de contraseña",
+  "Regards,": "Saludos,",
+  "You are receiving this email because we received a password reset request for your account.": "Recibe este mensaje porque se solicitó un restablecimiento de contraseña para su cuenta.",
+  "If you did not request a password reset, no further action is required.": "Si no ha realizado esta petición, ignorar este correo y nada cambiará.",
+  "Confirm Password": "Confirmar contraseña",
+
+  "Profile":  "Perfil",
+  "Please check the form below for errors": "Por favor revise los siguientes errores"
+}
