@@ -13,3 +13,11 @@ const mix = require('laravel-mix');
 
 mix.js('resources/js/app.js', 'public/js')
    .sass('resources/sass/app.scss', 'public/css');
+
+mix.browserSync({
+  proxy:    'http://laravel57.lrv/',  // 'http://PROYECTO.lrv/',
+  browser:  'Google Chrome',
+  open:     false	                    // Evitar que habra mas ventanas
+});
+
+//mix.disableNotifications();
