@@ -26,7 +26,7 @@
           with font-awesome or any other icon font library -->
         <li class="nav-item has-treeview">
           <a href="#" class="nav-link active">
-              <i class="nav-icon fas fa-tachometer-alt"></i>
+              <i class="nav-icon fas fa-tachometer-alt blue"></i>
               <p>
                 Dashboard
                 <i class="right fa fa-angle-left"></i>
@@ -35,19 +35,19 @@
           <ul class="nav nav-treeview">
             <li class="nav-item">
               <a href="./index.html" class="nav-link">
-                  <i class="fas fa-circle-notch nav-icon"></i>
+                  <i class="fas fa-circle-notch nav-icon orange"></i>
                   <p>Dashboard v1</p>
                 </a>
             </li>
             <li class="nav-item">
               <a href="./index2.html" class="nav-link active">
-                  <i class="fas fa-circle-notch nav-icon"></i>
+                  <i class="fas fa-circle-notch nav-icon green"></i>
                   <p>Dashboard v2</p>
                 </a>
             </li>
             <li class="nav-item">
               <a href="./index3.html" class="nav-link">
-                  <i class="fas fa-circle-notch nav-icon"></i>
+                  <i class="fas fa-circle-notch nav-icon red"></i>
                   <p>Dashboard v3</p>
                 </a>
             </li>
@@ -55,7 +55,7 @@
         </li>
         <li class="nav-item">
           <a href="pages/widgets.html" class="nav-link">
-              <i class="nav-icon fa fa-th"></i>
+              <i class="nav-icon fa fa-th indigo"></i>
               <p>
                 Widgets
                 <span class="right badge badge-danger"></span>
@@ -64,7 +64,7 @@
         </li>
         <li class="nav-item has-treeview">
           <a href="#" class="nav-link">
-              <i class="nav-icon fa fa-chart-pie"></i>
+              <i class="nav-icon fa fa-chart-pie purple"></i>
               <p>
                 Charts
                 <i class="right fa fa-angle-left"></i>
@@ -93,7 +93,7 @@
         </li>
         <li class="nav-item has-treeview">
           <a href="#" class="nav-link">
-              <i class="nav-icon fa fa-tree"></i>
+              <i class="nav-icon fa fa-tree pink"></i>
               <p>
                 UI Elements
                 <i class="fa fa-angle-left right"></i>
@@ -128,7 +128,7 @@
         </li>
         <li class="nav-item has-treeview">
           <a href="#" class="nav-link">
-              <i class="nav-icon fa fa-edit"></i>
+              <i class="nav-icon fa fa-edit yellow"></i>
               <p>
                 Forms
                 <i class="fa fa-angle-left right"></i>
@@ -157,7 +157,7 @@
         </li>
         <li class="nav-item has-treeview">
           <a href="#" class="nav-link">
-              <i class="nav-icon fa fa-table"></i>
+              <i class="nav-icon fa fa-table teal"></i>
               <p>
                 Tables
                 <i class="fa fa-angle-left right"></i>
@@ -181,7 +181,7 @@
         <li class="nav-header">EXAMPLES</li>
         <li class="nav-item">
           <a href="pages/calendar.html" class="nav-link">
-              <i class="nav-icon fa fa-calendar"></i>
+              <i class="nav-icon fa fa-calendar cyan"></i>
               <p>
                 Calendar
                 <span class="badge badge-info right">2</span>
