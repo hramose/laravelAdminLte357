@@ -8,7 +8,7 @@
 
     <title>Laravel 5.7 | @yield('title')</title>
 
-    <link rel="stylesheet" href="/css/app.css">
+    <link rel="stylesheet" href="{{ asset('css/app.css') }}">
   </head>
   <body class="hold-transition sidebar-mini">
     <div class="wrapper" id="app">
@@ -23,7 +23,7 @@
 
       @include('layouts.includes.footer')
     </div>
-
-    <script src="/js/app.js"></script>
+    
+    <script src="{{ asset('js/app.js') }}"></script>
   </body>
 </html>

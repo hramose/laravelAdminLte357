@@ -15,7 +15,7 @@ mix.js('resources/js/app.js', 'public/js')
    .sass('resources/sass/app.scss', 'public/css');
 
 mix.browserSync({
-  proxy:    'http://laravel57.lrv/',  // 'http://PROYECTO.lrv/',
+  proxy:    'http://laravelAdminLte357.lrv/',
   browser:  'Google Chrome',
   open:     false	                    // Evitar que habra mas ventanas
 });
