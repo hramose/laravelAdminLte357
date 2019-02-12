@@ -1,18 +1,25 @@
 {
   "Sign in":        "Iniciar Sesión",
+  "Login":          "Iniciar Sesión",
   "Name":           "Nombre",
   "E-mail":         "Correo electrónico",
   "E-Mail Address": "Correo electrónico",
   "Username":       "Nombre de usuario",
+  "UserName":       "Nombre de usuario",
   "Password":       "Contraseña",
+  "First Name":     "Nombres",
+  "Last Name":      "Apellidos",
+  "Profile Picture": "Foto del perfil",
   "Remember me":    "Recordarme",
+  "Remember Me":    "Recordarme",
   "Forgot password?": "Olvidó su contraseña?",
-  "Sign_in_button":   "Ingresar",
+  "Sign_in_button": "Ingresar",
+  "Register":       "Registrarse",
   "Logout":         "Salir",
   "Sign out":       "Cerrar sesión",
   "Reset Password": "Restablecer Contraseña",
   "Send Password Reset Link": "Restablecer la contraseña",
-  "You are logged in!" : "Usted esta conectado!",
+  "You are logged in!": "Usted esta conectado!",
 
   "Reset Password Notification":  "Notificación de restablecimiento de contraseña",
   "Regards,": "Saludos,",
@@ -20,6 +27,14 @@
   "If you did not request a password reset, no further action is required.": "Si no ha realizado esta petición, ignorar este correo y nada cambiará.",
   "Confirm Password": "Confirmar contraseña",
 
-  "Profile":  "Perfil",
-  "Please check the form below for errors": "Por favor revise los siguientes errores"
+  "Create User": "Crear usurio",
+  "Update User": "Actualizar usuario",
+  "Profile": "Perfil",
+  "Update Profile": "Actualizar perfil",
+  "Please check the form below for errors": "Por favor revise los siguientes errores",
+
+  "Sorry, you are forbidden from accessing this page.": "Lo sentimos, está prohibido acceder a esta página.",
+  "Sorry, your session has expired. Please refresh and try again.": "Lo sentimos, su sesión ha expirado. Por favor, actualice y pruebe de nuevo.",
+  "GO HOME": "Ir a la página principal",
+  "Whoops, something went wrong on our servers.": "Ohh, algo salió mal en nuestros servidores."
 }
