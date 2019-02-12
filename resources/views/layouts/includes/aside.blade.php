@@ -72,10 +72,10 @@
             </a>
           <ul class="nav nav-treeview">
             <li class="nav-item">
-              <router-link to="/users" class="nav-link">
+              <a href="#" class="nav-link">
                 <i class="fas fa-users nav-icon"></i>
                 <p>Users</p>
-              </router-link>
+              </a>
             </li>
             <li class="nav-item">
               <a href="#" class="nav-link">
@@ -86,13 +86,13 @@
           </ul>
         </li>
         <li class="nav-item">
-          <router-link to="/profile" class="nav-link">
+          <a href="#"  class="nav-link">
               <i class="nav-icon fas fa-user"></i>
               <p>
                 Profile
                 <span class="right badge badge-danger"></span>
               </p>
-            </router-link>
+            </a>
         </li>
         <li class="nav-header">LABELS</li>
         <li class="nav-item">
