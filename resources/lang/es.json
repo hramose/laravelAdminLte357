@@ -1,5 +1,6 @@
 {
   "Sign in":        "Iniciar Sesión",
+  "Name":           "Nombre",
   "E-mail":         "Correo electrónico",
   "E-Mail Address": "Correo electrónico",
   "Username":       "Nombre de usuario",
@@ -11,6 +12,7 @@
   "Sign out":       "Cerrar sesión",
   "Reset Password": "Restablecer Contraseña",
   "Send Password Reset Link": "Restablecer la contraseña",
+  "You are logged in!" : "Usted esta conectado!",
 
   "Reset Password Notification":  "Notificación de restablecimiento de contraseña",
   "Regards,": "Saludos,",
