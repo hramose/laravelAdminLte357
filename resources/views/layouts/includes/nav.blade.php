@@ -37,7 +37,7 @@
         <a href="#" class="dropdown-item">
           <!-- Message Start -->
           <div class="media">
-            <img src="images/icons8-nombre-48.png" alt="User Avatar" class="img-size-50 mr-3 img-circle">
+            <img src="/images/icons8-nombre-48.png" alt="User Avatar" class="img-size-50 mr-3 img-circle">
             <div class="media-body">
               <h3 class="dropdown-item-title">
                 Brad Diesel
@@ -53,7 +53,7 @@
         <a href="#" class="dropdown-item">
           <!-- Message Start -->
           <div class="media">
-            <img src="images/boy.png" alt="User Avatar" class="img-size-50 img-circle mr-3">
+            <img src="/images/boy.png" alt="User Avatar" class="img-size-50 img-circle mr-3">
             <div class="media-body">
               <h3 class="dropdown-item-title">
                 John Pierce
@@ -69,7 +69,7 @@
         <a href="#" class="dropdown-item">
           <!-- Message Start -->
           <div class="media">
-            <img src="images/girl.png" alt="User Avatar" class="img-size-50 img-circle mr-3">
+            <img src="/images/girl.png" alt="User Avatar" class="img-size-50 img-circle mr-3">
             <div class="media-body">
               <h3 class="dropdown-item-title">
                 Nora Silvester
