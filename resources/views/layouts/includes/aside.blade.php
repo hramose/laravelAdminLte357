@@ -87,12 +87,21 @@
         </li>
         <li class="nav-item">
           <a href="#"  class="nav-link">
+<<<<<<< HEAD
             <i class="nav-icon fas fa-user"></i>
             <p>
               Profile
               <span class="right badge badge-danger"></span>
             </p>
           </a>
+=======
+              <i class="nav-icon fas fa-user"></i>
+              <p>
+                Profile
+                <span class="right badge badge-danger"></span>
+              </p>
+            </a>
+>>>>>>> af943a153109ea1bf2f4f59819a83916b05ac215
         </li>
         <li class="nav-header">LABELS</li>
         <li class="nav-item">
