@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://laravel57.lrv/'),
+    'url' => env('APP_URL', 'http://laravelAdminLte357.lrv/'),
 
     'asset_url' => env('ASSET_URL', null),
 
