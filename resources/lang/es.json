@@ -11,15 +11,8 @@
   "Last Name":      "Apellidos",
   "Profile Picture": "Foto del perfil",
   "Remember me":    "Recordarme",
-<<<<<<< HEAD
   "Forgot your password?": "Olvidó su contraseña?",
   "Sign_in_button":   "Ingresar",
-=======
-  "Remember Me":    "Recordarme",
-  "Forgot password?": "Olvidó su contraseña?",
-  "Sign_in_button": "Ingresar",
-  "Register":       "Registrarse",
->>>>>>> af943a153109ea1bf2f4f59819a83916b05ac215
   "Logout":         "Salir",
   "Sign out":       "Cerrar sesión",
   "Reset Password": "Restablecer contraseña",
