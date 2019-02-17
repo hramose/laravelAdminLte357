@@ -6,6 +6,11 @@
 
 require('./bootstrap');
 
+import 'datatables.net';
+import 'datatables.net-buttons';
+import 'datatables.net-responsive';
+import 'datatables.net-select';
+
 window.Vue = require('vue');
 
 /**
