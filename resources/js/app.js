@@ -10,6 +10,11 @@ import 'datatables.net';
 import 'datatables.net-buttons';
 import 'datatables.net-responsive';
 import 'datatables.net-select';
+import 'datatables.net-autofill';
+import 'datatables.net-colreorder';
+import 'datatables.net-fixedcolumns';
+import 'datatables.net-fixedheader';
+import 'datatables.net-rowgroup';
 
 window.Vue = require('vue');
 
