@@ -14,6 +14,13 @@ $fa-font-path: '../webfonts';
 @import '~@fortawesome/fontawesome-free/scss/solid.scss';
 @import '~@fortawesome/fontawesome-free/scss/brands.scss';
 
+// DataTables
+@import '~datatables.net-dt/css/jquery.dataTables.css';
+@import '~datatables.net-buttons-dt/css/buttons.dataTables.css';
+@import '~datatables.net-responsive-dt/css/responsive.dataTables.css';
+@import '~datatables.net-select-dt/css/select.dataTables.css';
+@import '~datatables.net-autofill-dt/css/autoFill.dataTables.css';
+
 .navbar-laravel {
   background-color: #fff;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
